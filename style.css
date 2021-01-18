@@ -1,0 +1,52 @@
+:root {
+    --mainColor: rgb(78, 25, 25);
+}
+body {
+    height: 3000px;
+}
+.carousel-inner  {
+    position: relative;
+}
+.carousel-inner  {
+    position: relative;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.404);
+    height: 100%;
+    width: 100%;
+    color: var(--mainColor)
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.404);
+    height: 100%;
+    width: 100%;
+    color: var(--mainColor)
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.404);
+    height: 100%;
+    width: 100%;
+    color: var(--mainColor)
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+    background-color: rgba(0, 0, 0, 0.404);
+    height: 100%;
+    width: 100%;
+    color: var(--mainColor)
+}
